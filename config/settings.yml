@@ -78,7 +78,7 @@ progress_text: "Implemented"
 ships: "Is in operation in September 2014"
 
 # On Lockitron, it's "Reserve Now"
-call_to_action: "Donate now Now"
+call_to_action: "Donate Now"
 # On Lockitron, this is "Only $149 for a limited time"
 price_human: "Donate 10 pounds"
 
